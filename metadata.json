@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Game Start with Custom Controls",
+  "description": "A responsive, high-fidelity game launcher with customizable character control mapping, audio settings, character selection, and an interactive testing ground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
